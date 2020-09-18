@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+učím se, jak funguje github
+
+proto zkouším tento tutorial 
